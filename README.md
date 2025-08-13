@@ -59,22 +59,19 @@ PRICE (NUMBER) - Price
 ## 📷 Screenshots  
 
 ### 🏠 Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](screenshots/home.jpg)
 
 ### 🔑 Login Page
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/login.jpg)
 
 ### 🛍 All Products
-![All Products](screenshots/all_products.png)
+![All Products](screenshots/products.jpg)
 
 ### 👕 Product Details
-![Product Details](screenshots/product_details.png)
-
-### 🛒 Cart
-![Cart](screenshots/cart.png)
+![Product Details](screenshots/details.jpg)
 
 ### ✅ Thank You Screen
-![Thank You](screenshots/thankyou.png)
+![Thank You](screenshots/endscreen.jpg)
 
 ---
 
